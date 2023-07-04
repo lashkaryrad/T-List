@@ -1,0 +1,11 @@
+{
+  "name": "T-List",
+  "version": "1.0.0",
+  "description": "The Trading Watch List.",
+  "manifest_version": 3,
+  "author": "Ahmadreza LashkaryRad",
+  "action":{
+      "default_popup": "index.html",
+      "default_title": "T-List"
+  }
+}
