@@ -4,6 +4,9 @@
   "description": "The Trading Watch List.",
   "manifest_version": 3,
   "author": "Ahmadreza LashkaryRad",
+  "icons": {
+    "48": "icons/icon48.png"
+  },
   "action":{
       "default_popup": "index.html",
       "default_title": "T-List"
